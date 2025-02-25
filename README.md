@@ -57,8 +57,5 @@ Feel free to fork this repository, open an issue, or submit a pull request to co
 ---
 
 ### Author
-
-Your Name - [GitHub Profile](https://github.com/your-username)
-
 suraj
 
